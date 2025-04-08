@@ -2,6 +2,11 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquirrelTest", "SquirrelTest\SquirrelTest.csproj", "{39FF7DD4-F459-4669-9368-736C852DD6C6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{9EB8A1F8-9BAD-4CCF-9429-9D908C4237E2}"
+	ProjectSection(SolutionItems) = preProject
+		Package.nuspec = Package.nuspec
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
